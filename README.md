@@ -33,7 +33,7 @@ This system allows users to manage subscriber records, process payments, and gen
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/telecom-billing-management.git
+   git clone https://github.com/Ananya020/telecom-billing-management.git
    
 3. Compile the program:
    
